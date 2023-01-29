@@ -1,4 +1,8 @@
+main {
+  white-space: nowrap;
+}
 p {
+  display: inline-block;
   text-align: center;
 }
 p:hover {
