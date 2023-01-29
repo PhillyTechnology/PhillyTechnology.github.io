@@ -1,5 +1,7 @@
+#wrapper {
+    margin: auto;
+}
 #navbar {
-  margin: auto;
   white-space: nowrap;
 }
 .bar {
