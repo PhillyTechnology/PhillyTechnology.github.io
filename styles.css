@@ -1,7 +1,6 @@
-#vgr, #vrh, #vrc, #vrj {
+#vrg, #vrh, #vrc, #vrj {
   text-align: center;
   background-color: #112233;
 }
-#vgr:hover, #vrh:hover, #vrc:hover, #vrj:hover,  {
+div:hover {
   background-color: #999999;
-}
