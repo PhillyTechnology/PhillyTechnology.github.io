@@ -2,15 +2,6 @@
   text-align: center;
   background-color: #112233;
 }
-#vrg:hover {
-  background-color: #999999;
-}
-#vrh:hover {
-  background-color: #999999;
-}
-#vrc:hover {
-  background-color: #999999;
-}
-#vrj:hover {
+p:hover {
   background-color: #999999;
 }
