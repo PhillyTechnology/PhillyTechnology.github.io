@@ -1,6 +1,5 @@
-#vrg, #vrh, #vrc, #vrj {
+p {
   text-align: center;
-  background-color: #112233;
 }
 p:hover {
   background-color: #999999;
