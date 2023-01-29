@@ -1,7 +1,7 @@
-main {
+#navbar {
   white-space: nowrap;
 }
-p {
+.bar {
   display: inline-block;
   text-align: center;
 }
