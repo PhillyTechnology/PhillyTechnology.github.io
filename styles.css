@@ -1,6 +1,6 @@
-div {
+#vgr, #vrh, #vrc, #vrj {
   text-align: center;
-  color: #112233;
+  background-color: #112233;
 }
 /*
 div:hover {
