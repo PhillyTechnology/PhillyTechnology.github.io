@@ -1,4 +1,4 @@
-* {
+html *:not(.background) {
 	margin: 0;
 	padding: 0;
 }
