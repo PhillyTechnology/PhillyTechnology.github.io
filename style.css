@@ -3,12 +3,16 @@
 	padding: 0;
 }
 
+html {
+	background-image: url("gif.png");
+	background-repeat: no-repeat;
+}
+
 body {
 	display: flex;
 	justify-content: center;
 	align-items: center;
 	flex-wrap: wrap;
-	background-image: url("gif.png");
 	min-height: 100vh;
 }
 
