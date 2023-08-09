@@ -1,7 +1,10 @@
 * {
-	background-image: url("gif1.png");
 	margin: 0;
 	padding: 0;
+}
+
+.background {
+	background-image: url("gif1.png");
 }
 
 html {
