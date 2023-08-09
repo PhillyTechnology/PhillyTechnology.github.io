@@ -1,15 +1,7 @@
-html *:not(.background) {
-	margin: 0;
-	padding: 0;
-}
-
-.background {
-	background-image: url("gif1.png");
-}
-
 html {
 	background-repeat: no-repeat;
 	background-size: cover;
+	background-image: url('gif1.ong')
 }
 
 body {
