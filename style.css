@@ -1,7 +1,15 @@
+@media (min-width: 9.5in) {
+	html {
+		background-repeat: no-repeat;
+		background-size: 100% 100%;
+		background-image: url('gif1.png');
+	}
+}
+
 html {
 	background-repeat: no-repeat;
 	background-size: 100% 100%;
-	background-image: url('gif1.png')
+	background-image: url('mobile.png');
 }
 
 body {
