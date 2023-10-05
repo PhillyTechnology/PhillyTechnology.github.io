@@ -1,17 +1,3 @@
-html {
-	background-repeat: no-repeat;
-	background-size: 100% 100%;
-	background-image: url('mobile.png');
-}
-
-@media (min-width: 9.5in) {
-	html {
-		background-repeat: no-repeat;
-		background-size: 100% 100%;
-		background-image: url('gif.png');
-	}
-}
-
 body {
 	display: flex;
 	justify-content: center;
