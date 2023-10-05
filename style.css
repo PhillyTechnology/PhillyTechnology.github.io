@@ -59,7 +59,8 @@ body {
 }
 
 .container .card .content .contentBx h3 {
-	color: #fff;
+	//* color: #fff; *//
+	mix-blend-mode: difference;
 	text-transform: uppercase;
 	letter-spacing: 2px;
 	font-weight: 500;
@@ -95,6 +96,7 @@ body {
 }
 
 .container .card .sci li a {
-	color: #fff;
+	//* color: #fff; *//
+	mix-blend-mode: difference;
 	font-size: 16px;
 }
