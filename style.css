@@ -1,11 +1,9 @@
-html {
-	background-color: #98FF98;
-}
 body {
 	display: flex;
 	justify-content: center;
 	align-items: center;
 	flex-wrap: wrap;
+	background-color: #98FF98;
 }
 
 .container {
