@@ -1,11 +1,18 @@
 <!DOCTYPE html>
 <html>
   <head>
+    <script>
+    const iframe = document.getElementById('chat');
+    document.getElementById('submitmsg').addEventListener('click', function() {
+        const message = document.getElementById('usermsg').value;
+        iframe.contentWindow.postMessage(message, '*');
+    });
+    </script>
     <title>
       Chiwacorn Alpha Testing Page
     </title>
     <body>
-      <iframe src="https://eb82b8a5-6b3c-4783-8129-a41be1dc1911-00-2tbqdeky3dxj3.janeway.replit.dev/test/index.php"></iframe>
+      <iframe src="https://eb82b8a5-6b3c-4783-8129-a41be1dc1911-00-2tbqdeky3dxj3.janeway.replit.dev/test/index.php" id="chat"></iframe>
       <style>
         body, html {
           margin: 0;
